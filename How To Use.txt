@@ -1,0 +1,36 @@
+1.  First Go To NetworkConfig Folder
+
+2.  "mvps.bat" Run As Administrative Privilage Only Once, When you      going through the start using Our Application.
+
+3.  Now close the command prompt Windows After mvps.bat which is        run to populated.
+
+4.  "IRCTC TestWeb Browser.exe" This is Application,Run this            application in your system.A dialogue Box is populated click        on OK button than Wait For A second.
+
+5.  Click On Load Ticket , A Passanger Detaile Form Is Showing Fill     The Detaile And Click For Navigate Button or if you want to         save this Detaile For Future use in your System.
+
+6.  Netbanking OTP Auto fill Feature in this Application,Is not         Implemented in this demo version.
+
+7.  Destination and Source Station Name is Fill After Click on          Dropdown ListBox ListIcon Than You Get Easly Suggestion Of          Station Name
+
+8.  In Destination And Source station Name Always Must be input in      Filed Area of Form is upperCase and "New Delhi - NDLS" in this      formate.
+
+9.  You Don' Know Train Number Don't Worry After Set Destination        And Source station Name Click on Find Button. And Select You        Train Than Click on Submit, Than Click After on Train Number        TextBox Field Than You see Your Selected Train Number is            Appear in the Box.
+
+10. Click On Navigate Button.
+
+11. if you want to start book your ticket click on Start Booking        button on Application.make Sure you Checked AutoPay on              Application.
+
+12. Wait A Movment When Page Is Not Running On Browser Inter            Captcha in TextBox Which Appear on Application.
+13. Than Wait All Detaile is AutoMatically Fill by this                 Application.
+
+14. On Booking Form Page of Website Enter Captcha In Second Below       textBox.
+
+15. And Wait For A movment Your Detaile Will Be filled Automaticaly     And Your Payment Is Also Proccceed Automaticaly.
+
+16. Auto Captcha Feature is Only Available in Paid Version. Soon        Rlease.This is A Demo Version Please Help Me Out the fix the        Bugs ,And Mail Me  for Any Issue Related With This Application.
+
+17. I Am not hacking in to your System or IRCTC Website I am Just       helping you How to Fast Book Your Irctc Ticket online In            Pick Of Time.Moto Is"Everbody Have Own Jurney Ticket No Need        Any Broker And Ticket Agent For Ticketing Your Railway Ticket       In Pick of Time"
+18. Cash Card / Wallets and IRCTC Prepaid Payment Method is not         Working This Demo Version Also.
+
+For More Help
+Email Me : saurabh@rmsolutions.org.in
